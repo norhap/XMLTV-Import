@@ -191,7 +191,7 @@ msgstr "Mostrar \"EPG-Importador\" en complementos"
 
 #: src/EPGImport/plugin.py:342
 msgid "Show \"EPG Importer\" in main menu"
-msgstr "Mostrar \"EPG Importador\" en el menú principal"
+msgstr "Mostrar \"EPG-Importador\" en el menú principal"
 
 #: src/EPGImport/plugin.py:343
 msgid "Load long descriptions up to X days"
