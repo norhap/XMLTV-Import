@@ -261,7 +261,7 @@ msgstr "Importar fuente actual"
 
 #: src/EPGImport/plugin.py:539
 msgid "EPG Import Sources"
-msgstr "EPG-Import-Fuentes"
+msgstr "EPG-Importador Fuentes"
 
 #: src/EPGImport/plugin.py:595
 msgid "Days Profile"
