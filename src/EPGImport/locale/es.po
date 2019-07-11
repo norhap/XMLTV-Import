@@ -281,7 +281,7 @@ msgstr "Borrar"
 
 #: src/EPGImport/plugin.py:661
 msgid "EPG Import Log"
-msgstr "EPG-Import-Log"
+msgstr "EPG-Importador Log"
 
 #: src/EPGImport/plugin.py:667
 #, fuzzy
@@ -291,7 +291,7 @@ msgstr "Escribir en /tmp/EPGimport.log"
 
 #: src/EPGImport/plugin.py:683
 msgid "Last import: "
-msgstr "Última importación:: "
+msgstr "Última importación: "
 
 #: src/EPGImport/plugin.py:683
 msgid " events\n"
