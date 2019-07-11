@@ -1077,7 +1077,7 @@ def epgmenu(menuid, **kwargs):
 		else:
 			return []
 	else:
-		if menuid == "setup":
+		if menuid in ("epg", "epg_menu",):
 			return [(_("EPG-Importer"), main, "epgimporter", 1002)]
 		else:
 			return []
