@@ -183,11 +183,11 @@ msgstr "Omitir importación al reiniciar GUI"
 
 #: src/EPGImport/plugin.py:341
 msgid "Show \"EPGImport\" in extensions"
-msgstr "Mostrar \"EPG Importer\" en extensiones"
+msgstr "Mostrar \"EPG Importador\" en extensiones"
 
 #: src/EPGImport/plugin.py:342
 msgid "Show \"EPG Importer\" in main menu"
-msgstr "Mostrar \"EPG Importer\" en el menú principal"
+msgstr "Mostrar \"EPG Importador\" en el menú principal"
 
 #: src/EPGImport/plugin.py:343
 msgid "Load long descriptions up to X days"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: src/EPGImport/plugin.py:701
 msgid "EPG Importer"
-msgstr "EPG-Importer"
+msgstr "EPG Importador"
 
 #: src/EPGImport/plugin.py:729
 #, python-format
@@ -324,7 +324,7 @@ msgstr ""
 
 #: src/EPGImport/plugin.py:1029
 msgid "Automated EPG Importer"
-msgstr "Automatizar EPG-Import"
+msgstr "Automatizar EPG Importador"
 
 #: src/EPGImport/plugin.py:1031 src/EPGImport/plugin.py:1032
 #: src/EPGImport/plugin.py:1037 src/EPGImport/plugin.py:1042
@@ -332,7 +332,7 @@ msgstr "Automatizar EPG-Import"
 #: src/EPGImport/plugin.py:1059 src/EPGImport/plugin.py:1069
 #: src/EPGImport/plugin.py:1076
 msgid "EPG-Importer"
-msgstr "EPG-Importer"
+msgstr "EPG-Importador"
 
 #~ msgid "none"
 #~ msgstr "ninguna"
