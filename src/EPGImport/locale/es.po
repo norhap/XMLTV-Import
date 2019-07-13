@@ -112,7 +112,7 @@ msgstr "Domingo"
 
 #: src/EPGImport/plugin.py:270
 msgid "EPG Import Configuration"
-msgstr "Configuración EPG-Import"
+msgstr "Configuración EPG-Importador"
 
 #: src/EPGImport/plugin.py:274 src/EPGImport/plugin.py:514
 #: src/EPGImport/plugin.py:582
