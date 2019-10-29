@@ -535,7 +535,6 @@ class EPGImportSources(Screen):
 		Screen.__init__(self, session)
 		self["key_red"] = Button(_("Cancel"))
 		self["key_green"] = Button(_("Save"))
-		self["key_blue"] = Button()
 		cfg = EPGConfig.loadUserSettings()
 		filter = cfg["sources"]
 		tree = []
@@ -667,8 +666,8 @@ class EPGImportLog(Screen):
 		self.session = session
 		Screen.__init__(self, session)
 		self["key_red"] = Button(_("Clear"))
-		self["key_green"] = Button()
-		self["key_yellow"] = Button()
+		self["key_green"] = Button(_("Menu"))
+		self["key_yellow"] = Button(_("Menu"))
 		self["key_blue"] = Button(_("Save"))
 		self["list"] = ScrollLabel(log.getvalue())
 		self["actions"] = ActionMap(["DirectionActions", "OkCancelActions", "ColorActions", "MenuActions"],
