@@ -173,6 +173,9 @@ msgstr "Iniciar importación después de arrancar"
 msgid "Load EPG only services in bouquets"
 msgstr "Cargar servicios de EPG únicamente en bouquets"
 
+msgid "Load EPG only for IPTV channels"
+msgstr "Cargar EPG solo para canales IPTV"
+
 #: src/EPGImport/plugin.py:339
 msgid "Consider setting \"Days Profile\""
 msgstr "Considerar los días seleccionados"
