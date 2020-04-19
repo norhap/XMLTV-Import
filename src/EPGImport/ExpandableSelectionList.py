@@ -39,7 +39,7 @@ def entry(description, value, selected):
 		selectionpng = LoadPixmap(cached=True, path=resolveFilename(SCOPE_CURRENT_SKIN, "icons/lock_on.png"))
 	else:
 		selectionpng = LoadPixmap(cached=True, path=resolveFilename(SCOPE_CURRENT_SKIN, "icons/lock_off.png"))
-	res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHABLEND,) + entry_icon_loc + (selectionpng,))
+	res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHATEST,) + entry_icon_loc + (selectionpng,))
 	return res
 
 def expand(cat, value=True):
